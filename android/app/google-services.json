@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1055810193046",
+    "project_id": "orbitnews-31911",
+    "storage_bucket": "orbitnews-31911.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055810193046:android:94cf167ec9f0375b02e4b7",
+        "android_client_info": {
+          "package_name": "com.example.biodata_orbit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0o9Nbl13ThUI6-fryM8-5p60Ts-uC6SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055810193046:android:fbc8101845ebfbbd02e4b7",
+        "android_client_info": {
+          "package_name": "com.example.orbit_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0o9Nbl13ThUI6-fryM8-5p60Ts-uC6SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
